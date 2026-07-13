@@ -1,6 +1,11 @@
 # Google-Data-Analytics-Professional-Certificate
 
-![Certificate for Rennie Ramlochan](URL_TO_YOUR_CERTIFICATE_IMAGE)
+Certificate:
+![Certificate for Rennie Ramlochan](https://github.com/rennieramlochan/Google-Data-Analytics-Professional-Certificate/blob/main/Rennie%20Ramlochan-%20Google%20Data%20Analytics%20Professional%20Certificate.jpeg?raw=true)
+
+**Certificate for Rennie Ramlochan, IBM Data Engineering Certificate, offered through Coursera.** 
+
+**The focus of this portfolio was to gather, improve, and complete activities related to modern data engineering and pipeline development as presented in the IBM Data Engineering Professional Certificate offered through Coursera.***
 
 ## Overview
 This repository serves as a professional portfolio documenting the completion of the **Google Data Analytics Professional Certificate** offered through Coursera.
