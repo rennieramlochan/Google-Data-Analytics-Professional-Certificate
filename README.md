@@ -48,4 +48,9 @@ This program covers the complete data analysis process—Ask, Prepare, Process, 
 3. **Reference Material:** Please note that these documents are for reference purposes to demonstrate the application of data analytics best practices.
 
 ---
-Maintained by Rennie Ramlochan
+
+👤 Author
+Rennie Ramlochan
+Database Specialist | Data Engineer | Business Intelligence | SQL Developer
+Core Areas:
+SQL · Database Engineering · Data Engineering · ETL · Data Warehousing · Business Intelligence · Data Analytics · Power BI
